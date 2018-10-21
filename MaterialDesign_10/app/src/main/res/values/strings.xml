@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MaterialDesign_10</string>
+    <string-array name="name">
+        <item>Business</item>
+        <item>Dangal</item>
+        <item>Kabil</item>
+        <item>Raees</item>
+        <item>Sultan</item>
+        <item>Tublight</item>
+    </string-array>
+    <string-array name="actor">
+        <item>Mahesh</item>
+        <item>Amir</item>
+        <item>Rithik</item>
+        <item>Sahrukh</item>
+        <item>Salman</item>
+        <item>Salman</item>
+    </string-array>
+    <string-array name="email">
+        <item>mahesh@gmail.com</item>
+        <item>amir@gmail.com</item>
+        <item>rithik@gmail.com</item>
+        <item>sahrukh@gmail.com</item>
+        <item>salman@gmail.com</item>
+        <item>salman@gmail.com</item>
+
+    </string-array>
+</resources>

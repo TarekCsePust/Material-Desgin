@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<style name="Mytheme" parent="Mytheme.base">
+    <item name="android:windowBackground">@color/windowBackground</item>
+    <item name="android:navigationBarColor">@color/navigationBarColor</item>
+</style>
+</resources>
